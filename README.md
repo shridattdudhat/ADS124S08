@@ -1,0 +1,2 @@
+# ADS124S08
+24bit ADC | SPI
