@@ -10,6 +10,12 @@
 
 ![image](https://user-images.githubusercontent.com/28555587/93339551-588a9680-f849-11ea-9f44-8fdf3ba57102.png)
 
+![IMG_20201016_125400](https://user-images.githubusercontent.com/28555587/96328495-5f334600-1061-11eb-8610-5243e243b22e.jpg)
+
+![IMG_20201016_125300](https://user-images.githubusercontent.com/28555587/96328498-69554480-1061-11eb-9cb5-d51d6ce3ab7f.jpg)
+
+![IMG_20201016_125309](https://user-images.githubusercontent.com/28555587/96328503-6e19f880-1061-11eb-9bdd-bc0b2a0a72ff.jpg)
+
 
 -----------------------------------------------------------------------
 
