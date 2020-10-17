@@ -2,7 +2,9 @@
 
 ## 24-bit, 4-kSPS, 12-ch delta-sigma ADC with PGA and voltage reference for sensor measurement
 
-https://www.tindie.com/products/21419/
+https://www.tindie.com/products/21419/  
+<a href="https://www.tindie.com/stores/shridattdudhat/?ref=offsite_badges&utm_source=sellers_ShridattDudhat&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+
 
 24bit ADC | SPI
 
